@@ -30,7 +30,7 @@ document.addEventListener("DOMContentLoaded", function () {
         Sizning borligingiz — men uchun xaqiqiy ukaligimni va maslaxat beruvchi to'g'ri yo'l ko'rsatuvchi akam borligi xissiyotidir. Siz turgan har bir joyda, menda ilhom, ishonch va kulgu bo‘ladi.<br><br>
         Tug‘ilgan kuningizda sizga shunchaki tilak emas, balki chin yurakdan rahmat aytmoqchiman.<br>
         Sizga sog‘lik, tinchlik, va qalbingizdagi har bir orzuning ro‘yobini tilayman! Olloh umringizga mazmunli va go'zal onlarni to'ldirsin!<br><br>
-        🎁 Xurmat bilan yan bir bor ukangiz Bobur!.
+        🎁 Xurmat bilan yana bir bor ukangiz Bobur!.
       `;
     
       button.remove(); // tugmani olib tashlaymiz
@@ -49,3 +49,4 @@ document.addEventListener("DOMContentLoaded", function () {
     }
   });
 });
+
